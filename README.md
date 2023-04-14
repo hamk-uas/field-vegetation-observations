@@ -20,6 +20,10 @@ Feel free to use these forms for your own observations.
 
 Copyright 2022 Häme University of Applied Sciences
 
+## Authors
+
+TODO
+
 ## Acknowledgements
 
 This work was done within project "Tulevaisuuden maanviljelijät" (Farmers of the future) as part of "Ravinteiden kierrätyksen kokeiluohjelma 2020–2022" programme by Ministry of Agriculture and Forestry in Finland. The project was funded by Ministry of Agriculture and Forestry in Finland / South Ostrobothnia Centre for Economic Development, Transport and the Environment.
