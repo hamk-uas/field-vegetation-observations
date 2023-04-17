@@ -37,4 +37,4 @@ Please cite the following publication for the forms. You can export the citation
 
 ## License
 
-Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+Creative Commons No Rights Reserved (CC0)
