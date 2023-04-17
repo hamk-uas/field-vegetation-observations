@@ -1,3 +1,5 @@
+cff-version: 1.2.0
+message: "If you use these forms, please cite the publication in the preferred-citation."
 authors:
   - family-names: "Pietilä"
     given-names: "Heikki"
@@ -7,8 +9,6 @@ authors:
     given-names: "Olli"
   - family-names: "Vahtila"
     given-names: "Outi"
-cff-version: 1.2.0
-message: "If you use these forms, please cite the publication in the preferred-citation."
 preferred-citation:
   type: book
   authors:
