@@ -1,5 +1,5 @@
 # field-vegetation-observations
-Field vegetation observation fillable Excel forms (in Finnish) / Peltokasvuston Excel-havaintolomakkeet (suomeksi).
+Field vegetation observation fillable Excel forms in Finnish / Peltokasvuston Excel-havaintolomakkeet suomeksi.
 
 The following forms (in Finnish) are included:
 
