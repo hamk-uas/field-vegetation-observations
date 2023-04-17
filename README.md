@@ -3,16 +3,16 @@ Field vegetation observation fillable forms / Peltokasvuston havaintolomakkeet.
 
 The following forms (in Finnish) are included:
 
-* Havaintolomake, kevätvilja (and an example in the last sheegt)
-* Havaintolomake, syysvilja
-* Havaintolomake, kokoviljasäilörehu
-* Havaintolomake, rehunurmi
-* Havaintolomake, herne
-* Havaintolomake, härkäpapu
-* Havaintolomake, maissi
+* Kevätvilja (and an example in the last sheegt)
+* Syysvilja
+* Kokoviljasäilörehu
+* Rehunurmi
+* Herne
+* Härkäpapu
+* Maissi
 
 Sample:
-![image](https://user-images.githubusercontent.com/60920087/232021835-69f44d27-7d2e-45d2-a97f-a66fe02ebd7a.png)
+![image](https://user-images.githubusercontent.com/60920087/232394767-aaf22b89-5430-433c-8b77-d711af9f8221.png)
 
 Feel free to use these forms for your own observations.
 
@@ -22,7 +22,10 @@ Copyright 2022 Häme University of Applied Sciences
 
 ## Authors
 
-TODO
+Heikki Pietilä (HAMK Häme University of Applied Sciences)
+Rauno Laine (HAMK Häme University of Applied Sciences)
+Olli Niemitalo (HAMK Häme University of Applied Sciences)
+Outi Vahtila (HAMK Häme University of Applied Sciences)
 
 ## Acknowledgements
 
