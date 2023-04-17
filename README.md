@@ -22,10 +22,10 @@ Copyright 2022 Häme University of Applied Sciences
 
 ## Authors
 
-Heikki Pietilä (HAMK Häme University of Applied Sciences)
-Rauno Laine (HAMK Häme University of Applied Sciences)
-Olli Niemitalo (HAMK Häme University of Applied Sciences)
-Outi Vahtila (HAMK Häme University of Applied Sciences)
+* Heikki Pietilä (HAMK Häme University of Applied Sciences)
+* Rauno Laine (HAMK Häme University of Applied Sciences)
+* Olli Niemitalo (HAMK Häme University of Applied Sciences)
+* Outi Vahtila (HAMK Häme University of Applied Sciences)
 
 ## Acknowledgements
 
