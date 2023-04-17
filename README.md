@@ -14,6 +14,8 @@ The following forms are included:
 Kevätvilja example:
 ![image](https://user-images.githubusercontent.com/60920087/232394767-aaf22b89-5430-433c-8b77-d711af9f8221.png)
 
+Feel free to use the forms for your observations or to adapt them for your use.
+
 ## Copyright
 
 Copyright 2022 Häme University of Applied Sciences
