@@ -1,14 +1,5 @@
 cff-version: 1.2.0
 message: "If you use these forms, please cite the publication in the preferred-citation."
-authors:
-  - family-names: "Pietilä"
-    given-names: "Heikki"
-  - family-names: "Laine"
-    given-names: "Rauno"
-  - family-names: "Niemitalo"
-    given-names: "Olli"
-  - family-names: "Vahtila"
-    given-names: "Outi"
 preferred-citation:
   type: book
   authors:
