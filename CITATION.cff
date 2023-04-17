@@ -1,0 +1,25 @@
+authors:
+  - family-names: "Pietilä"
+    given-names: "Heikki"
+  - family-names: "Laine"
+    given-names: "Rauno"
+  - family-names: "Niemitalo"
+    given-names: "Olli"
+  - family-names: "Vahtila"
+    given-names: "Outi"
+cff-version: 1.2.0
+message: "If you use these forms, please cite the publication in the preferred-citation."
+preferred-citation:
+  authors:
+    - family-names: "Pietilä"
+      given-names: "Heikki"
+    - family-names: "Laine"
+      given-names: "Rauno"
+    - family-names: "Niemitalo"
+      given-names: "Olli"
+    - family-names: "Vahtila"
+      given-names: "Outi"
+  title: "Lomake kasvukauden aikaisten havaintojen tekoon peltokasveille"
+  version: 1.0
+  date-published: 2022-12-05
+  url: "https://urn.fi/urn:nbn:fi:oerfi-202212_00025865_7"
