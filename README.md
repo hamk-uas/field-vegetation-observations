@@ -31,7 +31,7 @@ This work was done within project "Tulevaisuuden maanviljelijät" (Farmers of th
 
 ## Citing
 
-This is a mirror. Please cite the main publication of the forms:
+Please cite the following publication for the forms:
 
 Pietilä, H., Laine, R., Niemitalo, O., & Vahtila, O. (2022). Lomake kasvukauden aikaisten havaintojen tekoon peltokasveille (Version 1.0). https://urn.fi/urn:nbn:fi:oerfi-202212_00025865_7
 
