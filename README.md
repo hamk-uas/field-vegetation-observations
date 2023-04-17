@@ -1,7 +1,7 @@
 # field-vegetation-observations
 Field vegetation observation fillable Excel forms in Finnish / Peltokasvuston Excel-havaintolomakkeet suomeksi.
 
-The following forms (in Finnish) are included:
+The following forms are included:
 
 * Kevätvilja (including an example in the last sheet)
 * Syysvilja
