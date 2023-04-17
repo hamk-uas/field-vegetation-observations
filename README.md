@@ -3,7 +3,7 @@ Field vegetation observation fillable Excel forms / Peltokasvuston Excel-havaint
 
 The following forms (in Finnish) are included:
 
-* Kevätvilja (and an example in the last sheegt)
+* Kevätvilja (including an example in the last sheet)
 * Syysvilja
 * Kokoviljasäilörehu
 * Rehunurmi
