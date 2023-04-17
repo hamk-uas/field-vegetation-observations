@@ -11,7 +11,7 @@ The following forms (in Finnish) are included:
 * Härkäpapu
 * Maissi
 
-Sample:
+Kevätvilja example:
 ![image](https://user-images.githubusercontent.com/60920087/232394767-aaf22b89-5430-433c-8b77-d711af9f8221.png)
 
 Feel free to use these forms for your own observations.
