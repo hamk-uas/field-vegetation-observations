@@ -29,6 +29,10 @@ Copyright 2022 Häme University of Applied Sciences
 
 This work was done within project "Tulevaisuuden maanviljelijät" (Farmers of the future) as part of "Ravinteiden kierrätyksen kokeiluohjelma 2020–2022" programme by Ministry of Agriculture and Forestry in Finland. The project was funded by Ministry of Agriculture and Forestry in Finland / South Ostrobothnia Centre for Economic Development, Transport and the Environment.
 
+## Citing
+
+This is a mirror of the forms published in: Pietilä, H., Laine, R., Niemitalo, O., & Vahtila, O. (2022). Lomake kasvukauden aikaisten havaintojen tekoon peltokasveille (Version 1.0). https://urn.fi/urn:nbn:fi:oerfi-202212_00025865_7
+
 ## License
 
 Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
