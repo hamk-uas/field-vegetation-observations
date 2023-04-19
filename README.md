@@ -16,6 +16,8 @@ Kevätvilja example:
 
 Feel free to use the forms for your observations or to adapt them for your use.
 
+A dataset using these forms can be found at https://doi.org/10.23729/8989dd03-11a2-4a68-bc27-9be95ba51881
+
 ## Copyright
 
 Copyright 2022 Häme University of Applied Sciences
